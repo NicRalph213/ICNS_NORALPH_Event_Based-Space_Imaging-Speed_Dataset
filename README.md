@@ -2,7 +2,13 @@
 
 ### EBC Slew Speed Dataset using the GEN 4 HD ATIS EBC
 
-Supplementary Material for paper titled: "Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging" on arxiv by **Nicholas Owen Ralph, Alexandre Marcireau, Saeed Afshar, Nicholas Tothill, André van Schaik, and Gregory Cohen**.
+Supplementary Material for paper titled:
+
+**"Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging"** by
+Nicholas Owen Ralph, Alexandre Marcireau, Saeed Afshar, Nicholas Tothill, André van Schaik, and Gregory Cohen.
+
+Accessible on Arxiv: <https://arxiv.org/abs/2211.09939>
+
 
 ### Observation file format:
 
